@@ -1,0 +1,30 @@
+/* All information for thz theme : */
+
+/* 
+------------------
+Template Name: 
+Author: 
+Author Email: @gmail.com
+Version: 1.00
+------------------
+
+----------------
+Table of Content
+----------------
+1.header part
+2.banner part
+3.about part
+4.portfolio part 
+5.service part
+6.testimonial part
+7.pricing part
+8.counter part
+9.team part
+10.market part
+11.footer part
+*/
+
+@import url("font-awesome.min.css");
+/*
+@import url of all paper css 
+*/
